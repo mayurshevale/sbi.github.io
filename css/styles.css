@@ -1,0 +1,123 @@
+#navbar_list a:hover,a:active{
+    color: #fb2056;
+}
+
+.jumbotron-index{
+    background-image: url('../img/index/banner.jpeg');
+    height: 600px;
+    background-size: cover;
+}
+
+.jumbotron-index h1{
+    padding-top: 10%;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 400;
+}
+
+.jumbotron-index h4{
+    font-family: 'Montserrat',sans-serif;
+    
+}
+
+#index_body_2{
+    font-size: 100%;
+    font-style: "Roboto Slab";
+    font-weight: "Roboto Slab";
+    vertical-align: baseline;
+}
+#index_body_2 hr {
+    width: 10%;
+    border: 2px solid #fb2056;
+
+}
+
+footer {
+    background-color:rgb(238, 235, 235);
+    margin-left: 0.05 rem;
+
+}
+
+#links a{
+   
+    text-align: left;
+    color: #fb2056;
+    text-decoration: none;
+}
+
+#implinks a{
+   
+    text-align: left;
+    color:#fb2056;
+    text-decoration: none;
+  }
+
+ 
+.btn {
+    background-color:#fb2056;
+    color:white;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+  }
+
+
+  .footer{
+    background-color: #F5F5F5;;
+    font-family: 'Montserrat',sans-serif;
+    font-size: smaller;
+    border: 0;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+  }
+
+
+
+/*business lines*/
+
+.jumbotron-business{
+    
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('../img/business/banner.jpg');;
+    height: 100%;
+    background-size: cover;
+}
+
+
+
+ hr {
+    width: 10%;
+    border: 2px solid  #fb2056;
+    color :#fb2056;
+
+}
+
+.jumbotron-about{
+    
+    background-image: url('../img/about/pan.jpeg');;
+    height: 100%;
+    width: 18in;
+    height: 4in;
+    background-size: cover;
+}
+
+.jumbotron-partners{
+    
+    background-image:url('/img/partners/banner.jpg');;
+    height: 100%;
+    width: 18in;
+    height: 4in;
+    background-size: cover;
+}
+
+
+ 
+.jumbotron-contact{
+    
+    background-image:url('/img/contact/banner.jpeg');;
+    height: 100%;
+    width: 18in;
+    height: 4in;
+    background-size: cover;
+}
